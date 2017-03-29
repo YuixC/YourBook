@@ -1,0 +1,303 @@
+
+
+               
+
+本科毕业设计（论文）
+
+题目：（学习资源交流手机应用的设计与原型开发——以“学霸之路”为例）
+ Learning Resource Exchange design and prototype development of mobile application – "YOUR BOOK " as an example
+
+	学   院    教师教育学院                     
+
+专   业    数字媒体技术                     
+
+班   级    13数字媒体技术                     
+
+学   号    136331035                       
+
+学生姓名   谢银燕                          
+
+指导教师   杨勇波   　　　                
+
+完成日期   2016年4月25日                     
+ 
+
+
+诚 信 承 诺
+
+我谨在此承诺：本人所写的毕业论文《学习资源交流手机应用的设计与原型开发——以“学霸之路”为例》的主体均系本人独立完成，没有抄袭行为，凡涉及其他作者的观点和材料，均作了注释，若有不实，后果由本人承担并愿接受校方的处分。
+  
+                承诺人（签名）： 谢银燕   
+                    2017   年   4月 25日
+
+
+
+
+
+
+
+
+
+
+目　录
+要求：目录内容为宋体五号字。
+目录创建时：
+1．“插入－>引用－>索引和目录”；
+2．选择“目录”选项卡，同时注意勾选其中的“页码右对齐”；
+3．目录还应包含参考文献、致谢、附录；
+4．目录自动生成后，如果正文内容有所修改，请右键单击目录，在菜单中选择“更新域”命令，重新更新目录。
+
+目　录	II
+4．目录自动生成后，如果正文内容有所修改，请右键单击目录，在菜单中选择“更新域”命令，重新更新目录。	II
+摘　要	1
+Abstract	2
+1	绪论	3
+1.1	研究的背景与意义	3
+1.1.1	国内外二手书买卖现状	3
+1.1.2	国内二手书平台现状	3
+1.2	研究思路与研究框架	3
+1.2.1	研究思路	3
+1.2.2	软件框架	3
+1.3	二手书网上平台的原型开发意义	3
+2	已有二手书平台案例分析	5
+2.1	孔夫子二手书安卓软件分析	5
+2.1.1	孔夫子二手书安卓软件优点	5
+2.1.2	孔夫子二手书安卓软件缺点	5
+2.2	X二手书app设计原则	5
+2.2.1	XXXX	5
+2.2.2	XXXX	5
+2.3	XXXX	5
+3	安卓软件的设计开发原则与流程	6
+3.1	产品需求文档	6
+3.1.1	XXXX	6
+3.1.2	XXXX	6
+3.2	用户研究	6
+3.2.1	app设计的用户研究方法	6
+3.2.2	焦点小组	6
+3.3	软件测试	6
+4	学霸之路软件的设计与具体功能	7
+4.1	学霸之路的极简设计原则	7
+4.1.1	XXXX	7
+4.1.2	XXXX	7
+4.2	学霸之路原型设计	7
+4.2.1	功能	7
+4.2.2	工具	7
+4.3	学霸之路系列软件的产品定位	7
+5	总结与展望	8
+5.1	总结	8
+5.2	研究成果与不足	8
+5.2.1	研究成果	8
+5.2.2	研究存在的不足	8
+5.3	未来的展望	8
+参考文献	10
+致谢	11
+附录（宋体，加粗，小二号字，居左）	12
+ 
+学习资源交流手机应用的设计与原型开发——以“学霸之路”为例
+摘　要
+【摘要】众所周知，中国是世界上第二大的纸制用品消费大国，多年探索教科书回收循环之路，却一直未能提高国内废纸回收率。从目前成功进行废纸回收经营成功的其他国家来看，废纸制品的回收须从教科书循环利用做起。因此，我们确实应该从高校的教科书及各类学习资料的回收和利用做起，目前，网路技术日新月异的发展将我们带进了高速发展的信息社会。本文正是通过分析手机app电商相关的案例与研究，设计了基于安卓平台的二手书app的原型设计与开发。提供在线交流，发布、买卖、求购二手书的各项功能，希望可以为教科书的二手利用提供一点原型思路。。。
+【关键词】原型设计；二手书；安卓；学霸笔记。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+此页不标注页码
+Learning Resource Exchange design and prototype development of mobile application – "YOUR BOOK " as an example
+Abstract
+【ABSTRACT】As we all know, China is the world's second-largest consumer of paper supplies, explore the road of textbook recycling for many years, but has not been able to increase domestic recycling rate.From other countries of successful paper recycling business success, recycled waste products should be from a textbook recycling starts.So, we really should be from the textbooks and other learning materials recovery and utilization of, at present, the rapid development of Internet technology brought us into the rapid development of the information society.This article is by analyzing the mobile app business cases and research related to the design used-book app prototype based on the Android platform design and development.Provides online communication, publishing, sale, buy used books features, hoping to provide a prototype for textbooks used。
+【KEYWORDS】Android；Prototype design；Used books；Xueba Notes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+此页不标注页码
+1	绪论
+1.1	研究的背景与意义
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1.1.1	国内外二手书买卖现状
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx（正文：宋体五号，段前、段后各0行，1.5倍行距，首行缩进2字符）
+1.1.2	国内二手书平台现状
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1.2	研究思路与研究框架
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1.2.1	研究思路
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1.2.2	软件框架
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1.3	二手书网上平台的原型开发意义
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ 
+2	已有二手书平台案例分析
+2.1	孔夫子二手书安卓软件分析
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2.1.1	XXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2.1.2	XXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2.2	XXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2.2.1	XXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2.2.2	XXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2.3	XXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+3	安卓软件的设计开发原则与流程
+3.1	产品需求文档
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+3.1.1	XXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+3.1.2	XXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+3.2	用户研究
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+3.2.1	app设计的用户研究方法
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+3.2.2	焦点小组
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+3.3	软件测试
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+4	学霸之路软件的设计与具体功能
+4.1	学霸之路的极简设计
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+4.1.1	XXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+4.1.2	XXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+4.2	学霸之路原型设计
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+4.2.1	功能
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+4.2.2	XXXX
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+4.3	学霸之路系列软件的产品定位
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ 
+5	总结与展望
+5.1	总结
+本文通过研究二手教科书高校现状与分析，确定了二手书安卓平台开发的可行性与瓶颈。其实二手与循环利用的想法与概念早已深入人心，国家对该方面的支持与认可也是有目共睹。
+在各行各业，许多软件与网站都已经有了针对于专注的产品的二手买卖。比如二手电器与二手电子器材。其类物品往往因为单价的昂贵与不可任意丢弃的原因而不得已造成二手回收的目的。
+二手书循环利用却存在于一片空白。二手书平台开发很大的意义在于教科书不必要每次都购买新的，加之学长前辈们的特殊笔记，已经不仅仅是一本本普通的二手书。
+因此我致力于研究二手教科书的回收，便于为往后的高校学子及更多读书爱好者提供便利。
+在有书的原型设计中，我也遇到了许多难题，比如发布书本的功能，同城看书的功能，以及各大界面之间相互联系又不显得冗杂的问题。借以翻阅各大资料与安卓界面和原型设计，最终基本实现了app的略不成熟的想法。
+5.2	研究成果与不足
+在进行有书安卓的开发设计当中，随着进度的不断深入，取得了相应的成果，与此同时，依然存在着一些不足之处。
+5.2.1	研究成果
+本文通过在深入了解二手书买卖APP的现状的基础上，考虑到不同专业不同学习能力的各大院系的学生的需求，结合相关教育教科书的版本及价格分析以及本人所学积累的安卓原型的设计经验，最终设计并完成一套优秀的二手书买卖安卓应用的原型设计，整个研发过程当中，我受益匪浅，总结一下，大概有以下几个方面：
+其一，在调研二手教科书买卖平台与国内外二手书回收现状时 ，除去查阅大量参考资料，还下载并浏览了多个国内外优秀的二手电商平台，并了解众多高校的一线教师与学生对教科书的相关需求，获取了一定量的调研数据，这为后续开发者提供可供参考的不菲经验。
+5.2.2	研究存在的不足
+5.3	未来的展望
+由于本研究对象软件只是一个初步的产品定位和原型设计，有些更加丰富的功能和架构支持都不能得到完善的体验。综上所述，其实是无法直接投入开发项目中的。
+因此，经过仔细构思后，我认为往后的版本及具体开发修复应该从如下几个方面进行改善。
+首先，因为考虑到项目的大型性，和实际开发需要涉及到的各个知识点和开发框架都十分繁杂，一个分工明确的项目团队是十分必要的。
+其中明确分配的应该有产品经理，开发人员，软件测试工程师，运营。
+其二，还需要不断地进行用户研究。一个项目，需求是不断改变的，因此用户研究也是需要不断跟进发现更新的需求。
+其三，是考虑到支付方式。需要有别的大型公司支付的接口。比如，xx宝，某信支付。因为技术及版权问题，暂时无法实现。希望今后，继续跟进项目时，可以为使用者带来更佳客户体验
+
+
+
+
+有关正文的具体要求如下：
+（一）理工科类论文的正文章节编号顺序：依次为1、1.1、1.1.1、(1)、①……；经管、法政学院专业论文的正文章节编号顺序：一、(一)、1、(1)、①……；其他文科类、艺术类论文的正文章节编号顺序：第一节，以下依次为一、(一)、1、(1)、①……。并注明页码（居中），正文中没有第三级小标题的，可以只列二级目录。
+（二）正文一般应分为几个大的部分，每个部分应由小标题；正文中引用的符号较多，可在正文前列出符号表；正文中引用的技术数据要注明出处；正文中引用的重要论断要注明作者，年份。
+（三）正文中的注释采用脚注或尾注。其格式为：
+  1．著作：作者姓名．书名[M]．xx：出版社，xxxx，xx．
+  2．论文：作者姓名．论文题目[D]．杂志名称，xxxx（）：xx．
+以英文大写字母方式标识各种参考文献,专著[M]、论文集[C]、报纸文章[N]、期刊文章[J]、学位论文[D]、报告[R]。
+ 3. 注释字体为宋体，六号字。
+（四）毕业论文（设计）的字数要求在10000字以上，不包括文献综述和外文文献翻译。
+（五）毕业论文需有封面、中文摘要、中文关键词、英文摘要、英文关键词、目录、正文、参考文献、致谢、附录（与本论文相关的设计资料：源程序主要代码、设计图纸等）。
+（六）参考文献一般不低于１０本（篇）（必须包含至少2篇英文文献），引用格式与正文注释一致。
+（七）正文部分添加页眉，奇偶页页面不同，奇数页为：宁波大学**学院本科毕业设计（论文），偶数页为：具体的论文题目（请自行修改）。
+（八）外文摘要后一页开始设置页码，页码用1、2、3…….数字标识，设置在页脚，居中。
+ 
+参考文献
+[1]徐孟瑾，朱华 .极简主义在APP界面设计中的原则探讨_ [J]设计，2016(7):30-31
+[2]杨潇亮  .基于安卓操作系统的应用软件开发_[J]电子制作，2014（19）：45-46
+[3]李倩，隆梦琦，徐悦，晏阳 .我国高校学生二手书回收循环利用研究_基于易班的网络渠道[J]教育教学论坛，2013(32)：9-10
+[4]王丽侠  .基于ＰＨＰ＋Ｍｙｓｑｌ的营销型手机购物平台的设计与应用[J]唐山学院学报，2014（6）：64-66
+[5]万晶 .基于JAVA技术的图书电子商务系统的设计与实现[D]  东北：吉林大学，2015.6.1
+[6]王骁 . 基于BS架构的网上书店系统的设计与实现[D] 东北：吉林大学 2013
+[7]荣振华，尹德峰  .大学生网购观念转变的研究 [D] 山东：山东科技大学泰山科技学院,2012
+[8]向军志,申文果，朱文科 . 网购平台信用评价体系系统研究[J]价值工程，2015(21):53-56
+[9]唐李昊，王明宇 .基于ssh框架的网上销售系统设计与实现[J]电子商务，2014（05）：47-49
+[10] 李明辉，魏亚云  .安卓手机移动端的界面设计美学法则探析 [J]包装工程,2016(10):170-174
+[11] 于媛媛  .手机界面设计与特定人群的关联性研究[D] 东北： 沈阳师范大学，2014
+[12] 周辉  .基于Android移动学习平台研究与实现[D] 四川：电子科技大学，2012
+[13] 徐伟. 基于Android平台的应用程序安全保护研究与应用[D]  四川：电子科技大学 2015
+[14] 江帆 .智能手机APP设计中的用户研究方法[D] 大连：大连理工大学 2016
+[15] Petitjean  J,  Diversi  R,  Grivel E, et al．Recursive errors in variables approach for AR parameter estimation from noisy observations : application to radar sea clutter rejection［C］/ / International Conference on Acoustics，Speech and Signal Processing Proceedings．［s l．［s． n．］2009: 3401 － 3404．
+[16] Brown, S., Burdick, R., Falkner, J., Galbraith, B., Johnson, R., Kim, L ., Kochmer ,C., Kris tmundsson , T. and Li S (2001). Professional JSP. Wrox Press Ltd.
+[17] J Good. Mobile phone graphical interface design [J]. Interacting with computers,2016,12(6): 574-586  
+[18] Minghui Hu; Peng Bian, Human-Machine Interface: Design Principles of Interactive Waiting in Web and App, 2014-05-31:[C]  International Conference on Soft Computing in Information Communication Technology(SCICT 2014)
+
+
+ 
+致谢
+在经过半年多的不断修改，推倒重来，毕业论文从初期一个模糊的想法，到模型的初步实现，再至成稿，终于有了最终的结果。同样的，大学生活也在飞逝的时光中结束了，在过去的学习生活中，收获了很多了，而这些成绩的取得是和一直关心帮助我的人分不开的。
+在论文的撰写阶段，导师，老师和同学们都给予了无私的帮助和启发，让我得以在大学结束的时候还能交出一份令自己满意的作品。 经过大学四年的学习，籍论文完成之际，我特向指导和帮助我的老师、同学、同事、朋友及关心支持我的家人表示诚挚的谢意。
+首先非常感谢我的导师杨勇波老师。
+从论文的选题、文献的采集、框架结构的设计与布局到最终的论文定稿，从内容到格式，从标题到标点，他都不辞辛劳，一步一步的督促我，启发我。
+没有杨老师的辛勤栽培、孜孜教诲，就没有我论文的顺利完成。同时我也要衷心感谢在我大学期间给我极大关心和帮助的各位老师以及关心我的同学和朋友。
+然后衷心感谢在百忙之中抽出时间参加答辩的各位老师、教授，真的十分感谢你们!
+ 四年的大学时光，我不仅从老师们的身上汲取到了专业方面的相关知识，进一步扩充了知识与内涵，更重要的是掌握了学习知识的能力，使我从根本上，多方面提升了自身能力。
+这些中除了知识方面的，我还学习到了为人处事的方法。这将对我以后，无论是生活还是工作都有着极大的帮助。
+在整个写论文的过程中，前期搜寻了大量的相关资料与文献，使我渐渐了解到了安卓设计及原型开发的相关技术特点，借此明确了前进方向。
+虽然在后期遇到了许多困难，我都秉承着初心，努力克服，最终得到学习能力、思考能力等各项综合的很大提升。
+最后，我要感谢我的亲人对我的关心和理解，如果没有他们在我生活和学习中的无私帮助和不懈支持，我都无法顺利完成今天的学业。
+
+ 
+附录（宋体，加粗，小二号字，居左）
+XXXXXXX XXXXXX（宋体，五号字）
+
+
